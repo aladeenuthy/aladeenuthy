@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdulmalik Uthman</h1>
 <h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A Master's Student in Cybersecurity at Northumbria University, London</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aladeenuthy" alt="aladeenuthy" /></a> </p>
 
-- 🌱 I’m currently learning **Swift and SwiftUI**
+- 🌱 I’m currently expanding my technical expertise in the field of  **CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://aladeen.vercel.app](https://aladeen.vercel.app)
 
