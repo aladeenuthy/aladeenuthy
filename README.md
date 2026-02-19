@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently expanding my technical expertise in the field of  **CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [https://aladeen.vercel.app](https://aladeen.vercel.app)
+- 👨‍💻 All of my projects are available at [https://www.aladeenuthy.me](https://www.aladeenuthy.me)
 
 - 💬 Ask me about **Flutter, React, Django**
 
